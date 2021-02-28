@@ -24,6 +24,7 @@ export default {
   background: #054615;
   
   width: 95vw;
+  min-width: 300px;
 
   height: 5vh;
   color: ivory;
@@ -44,8 +45,6 @@ export default {
     position: fixed;
     bottom:0;
     height: 6vh;
-    
-    width: 100%;
   }
 
   #footer p
