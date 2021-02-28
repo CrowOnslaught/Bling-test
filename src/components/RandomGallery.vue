@@ -161,6 +161,8 @@ h1
   position: fixed;
   top: 0;
   width: 96%;
+  z-index: 1;
+
 }
 .sticky + #body {
   padding-top: 102px;
