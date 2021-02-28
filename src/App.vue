@@ -26,7 +26,7 @@ export default {
   margin-top: 60px;
 
   max-width: 95vw;
-  /* max-width: 1600px; */
+  min-width: 300px;
   background-color: white;
 
   margin: auto;
